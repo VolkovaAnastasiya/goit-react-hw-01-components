@@ -1,0 +1,22 @@
+.Friend-list {
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+}
+.Item {
+  display: flex;
+  align-items: center;
+  width: 200px;
+  margin: 10px auto;
+
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 5px 3px 3px #708080;
+  background-color: rgb(212, 241, 241);
+}
+
+.Status {
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+}
