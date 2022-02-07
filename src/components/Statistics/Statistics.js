@@ -18,7 +18,7 @@ function Statistics({ title, stats }) {
               }}
             >
               <span className="statistics-label">{label}</span>
-              <span className="statistics-percentage">{percentage}</span>
+              <span className="statistics-percentage">{percentage}%</span>
             </li>
           );
         })}
